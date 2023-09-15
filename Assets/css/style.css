@@ -466,22 +466,6 @@ nav button {
     background: #C2EFD4;
 }
 
-@media screen and (max-width: 767px){
-    .card-wraper p {
-        font-size: smaller;
-    }
-}
-
-@media screen and (max-width: 473px){
-
-    .card-wraper h5{
-        font-size: small;
-    }
-    
-    .card-wraper p {
-        font-size: x-small;
-    }
-}
 
 /* end-feed */
 
